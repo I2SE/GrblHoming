@@ -36,6 +36,13 @@ build from source.
 Details on how to do this can be found here:
 http://zapmaker.org/
 
+I2SE GmbH
+*******************************************************************************
+
+This branch contains an optimized UI for the official Raspberry Pi 7"
+touchscreen display (Portrait format). Beside the reduction of font sizes
+and some minor rearrangements the command interface move into a separate tab.
+
 V3.6.1
 Executable release rollup
 
